@@ -6,6 +6,10 @@
 
 This project demonstrates **embedded firmware development, sensor interfacing, IoT cloud connectivity, and real-time environmental monitoring**, making it suitable for **aquaculture, agriculture, environmental protection, and smart water management applications**.
 
+<p align="center">
+  <img src="./Outputs/project.png" alt="AQUA WATCH REAL TIME WATER QUALITY MONITORING VIA IOT" width="1000">
+</p>
+
 ---
 
 ## ⚙️ Key Features
@@ -202,13 +206,5 @@ to **ThingSpeak**, enabling:
 - Solar-powered deployment
 - Edge-based AI water quality prediction
 - Multi-pond monitoring network
-
----
-
-## 👨‍💻 Author
-
-**Kasturi Harsha veena**
-
-Embedded Systems | IoT | ESP32 | Real-Time Monitoring
 
 ---
