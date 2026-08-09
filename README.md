@@ -40,16 +40,9 @@ This project demonstrates **embedded firmware development, sensor interfacing, I
 
 ### System Flow
 
-```text
-pH Sensor ---------|
-                   |
-Turbidity Sensor --|--> ESP32 --> LCD Display
-                   |          |
-DHT11 Sensor ------|          |
-                              +--> Wi-Fi --> ThingSpeak Cloud
-                              |
-                              +--> Buzzer Alert (Unsafe range)
-```
+<p align="center">
+  <img src="./Outputs/Workflow.png" alt="AQUA WATCH REAL TIME WATER QUALITY MONITORING VIA IOT" width="1000">
+</p>
 
 ---
 
